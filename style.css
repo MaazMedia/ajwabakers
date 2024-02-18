@@ -1498,9 +1498,7 @@ gap: 25px;
 justify-content: center;
 transform: 0.5s;
 }
-.min--section:first-child:hover {
-  filter: blur(10px);
-}
+
 .card {
   /* border: 2px solid black;  */
   /* border:solid;  */
